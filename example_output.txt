@@ -1,0 +1,4 @@
+ALERT: Player 666 flagged for Speed Hack
+ALERT: Player 777 flagged for Macro Spam
+ALERT: Player 888 flagged for Score Exploit
+ALERT: Player 999 flagged for Teleport Hack
