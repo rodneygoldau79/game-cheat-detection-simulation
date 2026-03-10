@@ -1,4 +1,3 @@
-# game-cheat-detection-simulation
 # Game Cheat Detection Simulation
 
 This project simulates a multiplayer game server that detects cheating players.
